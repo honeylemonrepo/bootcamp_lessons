@@ -1,2 +1,3 @@
 # bootcamp_lessons
 lessons folder includes all activites and challenges in class.
+- folder contains in master branch - cannot git merge with main...
